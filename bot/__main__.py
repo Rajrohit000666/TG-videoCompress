@@ -1,6 +1,6 @@
 #    This file is part of the CompressorQueue distribution.
-#    Copyright (c) 2021 Danish_00
-#    Script Improved by Anshusharma
+#    Copyright (c) 2022 @cute_girl_rani
+#    Script Improved by @cute_girl_rani
 
 from . import *
 from .config import *
