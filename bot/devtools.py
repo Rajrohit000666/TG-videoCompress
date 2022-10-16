@@ -1,4 +1,4 @@
-# https://github.com/1Danish-00/CompressorQueue/blob/main/License> .
+# https://github.com/Rajrohit000666/TG-videoCompress> .
 
 from .stuff import *
 
